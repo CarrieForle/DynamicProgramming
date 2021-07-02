@@ -14,4 +14,5 @@ Implemented, but too lazy to put it up :v
 > howSum(15, {2, 3, 5}) returns {5, 5, 5} or {5, 2, 3, 5} or any other combination that the sum is 15.
 > howSum(2, {3, 7}) returns null
 > howSum(0, {5, 3, 7}) returns {} (Empty array)
-[Implementation](howSum.cpp):
+
+[Implementation](howSum.cpp)
