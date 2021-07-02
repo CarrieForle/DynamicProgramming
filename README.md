@@ -1,2 +1,2 @@
 # DynamicProgramming
-a set of dynamic programming code throughout the tutorial
+Here I practice some dyanmic programming. Most of them are written in C++.
