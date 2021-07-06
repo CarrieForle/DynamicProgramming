@@ -1,4 +1,4 @@
-# DynamicProgramming
+# Dynamic Programming
 Here I practice some dyanmic programming. Most of them are written in C++.
 ## Fibonacci
 Implemented, but too lazy to put it up :v
